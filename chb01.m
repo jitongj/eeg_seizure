@@ -297,7 +297,7 @@ for k = 1:3
 end
 disp('1&2: solution is unique');
 
-for k = 1:3 =
+for k = 1:3 
     s = size(Uhat01_r1_se{k});
     for j = 1:s(1,2)
         for i = 1:s(1,1)
