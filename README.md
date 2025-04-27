@@ -84,7 +84,7 @@ Note: Contains duplicate helper functions to ensure folder independence.
 #### 5. `flexible_fun/`
 Customized tensor generation framework for flexible experimental settings.
 
-- Main Script: `build_all_tensors.m` (renamed from `build_all_tensors_1.m`)
+- Main Script: `build_all_tensors.m` 
 - Supporting scripts:
   - `s_pre.m`, `s_det.m`: Seizure prediction/detection tensor generation
   - `ns_pred.m`, `ns_det.m`: Nonseizure prediction/detection tensor generation
