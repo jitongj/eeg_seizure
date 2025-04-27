@@ -22,7 +22,7 @@ The current implementation covers **16 patients**, specifically patients 1–11,
 
 **Detection Tasks:**
 - `eeg_pro.m` and `seizure_pro.m` generate 3D tensors for non-seizure and seizure detection windows.
-- Each patient has 20 windows for detection.
+- Each patient has 20 windows (can be modified based on needs) for detection.
 
 ## Repository Structure
 
