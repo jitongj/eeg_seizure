@@ -153,6 +153,3 @@ Typical duplicated files:
 - Tensor decomposition is repeated with multiple initializations to verify uniqueness.
 - The selected rank for decomposition is based on consistency and error evaluation.
 
-## Citation
-If you use this repository or code structure in your work, please consider citing the CHB-MIT Scalp EEG Database and the relevant EEG processing methods.
-
